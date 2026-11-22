@@ -13,7 +13,7 @@
 ## 文件说明
 - `main.py`：主程序，运行后生成数据集和图表
 - `requirements.txt`：需要安装的第三方库
-- `data/`：存放分数线 csv 数据文件
+- `src/`：存放分数线 csv 数据文件
 - `images/`：保存静态图片
 - `output/`：保存交互式 html 图表
 - `README.md`：项目说明文档
